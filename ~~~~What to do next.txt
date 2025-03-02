@@ -1,0 +1,30 @@
+With every Course introduce AI as a supp teaching/learnig tool.
+Tell how fast the misunderstanding is removed, thats how fast you will learn and conquer
+new subjects. So intriduce any one AI and show how drill down to clear undrestanding
+by arguing with Ai to clarify to as low as possible nitty gritty details, something you
+cannot do with a real teacher, so real teachers may not be the best teachers simetimes or 
+in some circumstances like an AI app (chatGPT, copilot, gemini, etc). Do not have to offer 
+a course, just thru real interaction students will learn to use it
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Also, as part of learning or teaching, try using intuitive pictures or drawings even as simple 
+as block diagrams with arrows here ane there
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Take VS code pdf  from academind
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-take screenshots from udemy git courses
+
+-upload cheatsheet pdf
+
+-Try push of arduino course from local to remote, after logging off and seeing if reconnection or fetch required
+
+-try connecting using ssh instead of http
+
+-do s push with existing files and then with later added doc files
+
+-see how to create a new repository from command line
+
+learn to pull/clone
+
+learn to use git with VS code
+
